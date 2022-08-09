@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/textutils/static/css/main.17f81291.css",
-    "main.js": "/textutils/static/js/main.4aa35e7f.js",
-    "static/js/787.02b2344c.chunk.js": "/textutils/static/js/787.02b2344c.chunk.js",
-    "index.html": "/textutils/index.html",
-    "main.17f81291.css.map": "/textutils/static/css/main.17f81291.css.map",
-    "main.4aa35e7f.js.map": "/textutils/static/js/main.4aa35e7f.js.map",
-    "787.02b2344c.chunk.js.map": "/textutils/static/js/787.02b2344c.chunk.js.map"
+    "main.css": "/hojabhai/static/css/main.17f81291.css",
+    "main.js": "/hojabhai/static/js/main.d11105ec.js",
+    "static/js/787.02b2344c.chunk.js": "/hojabhai/static/js/787.02b2344c.chunk.js",
+    "index.html": "/hojabhai/index.html",
+    "main.17f81291.css.map": "/hojabhai/static/css/main.17f81291.css.map",
+    "main.d11105ec.js.map": "/hojabhai/static/js/main.d11105ec.js.map",
+    "787.02b2344c.chunk.js.map": "/hojabhai/static/js/787.02b2344c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17f81291.css",
-    "static/js/main.4aa35e7f.js"
+    "static/js/main.d11105ec.js"
   ]
 }
